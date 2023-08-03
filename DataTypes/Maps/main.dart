@@ -4,4 +4,8 @@ void main() {
   Map<List<int>, bool> tempList = {
     [1, 2, 3, 4]: true,
   };
+  List<Map<String, Object>> players = [
+    {'name': 'de', 'xp': 2323},
+    {'name': 'de', 'xp': 2323}
+  ];
 }
