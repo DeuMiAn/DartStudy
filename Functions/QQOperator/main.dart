@@ -7,6 +7,8 @@ String whoAreYou(String? name) {
 
   //타입2
   //return name!=null?name.toUpperCase():"ANON"
+
+  //타입3 QQ Operator
   return name?.toUpperCase() ?? "ANON";
 }
 
