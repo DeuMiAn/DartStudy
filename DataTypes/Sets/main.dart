@@ -5,7 +5,13 @@ void main() {
   numbers.add(1);
   numbers.add(1);
   numbers.add(1);
+  numberss.add(1);
+  numberss.add(2);
+  numberss.add(3);
+  numberss.add(4);
+  numberss.add(5);
   print(numbers);
+  print(numberss);
 
   //유니크할 필요가 없으면 list사용해도됨
 }
